@@ -1,7 +1,9 @@
 
 -- ==========================================
+
 -- SQL JOINS ASSIGNMENT
 -- Database: Classic Models
+
 -- ==========================================
 
 -- QUESTION 1: INNER JOIN – Employees and Offices
